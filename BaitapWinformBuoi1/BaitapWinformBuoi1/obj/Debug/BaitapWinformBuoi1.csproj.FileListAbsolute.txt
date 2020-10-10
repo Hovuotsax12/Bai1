@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\bin\Debug\BaitapWinformBuoi1.exe.config
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\bin\Debug\BaitapWinformBuoi1.exe
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\bin\Debug\BaitapWinformBuoi1.pdb
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\obj\Debug\BaitapWinformBuoi1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\obj\Debug\BaitapWinformBuoi1.exe
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\obj\Debug\BaitapWinformBuoi1.pdb
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\obj\Debug\BaitapWinformBuoi1.Form1.resources
+C:\Users\Admin\source\repos\BaitapWinformBuoi1\BaitapWinformBuoi1\obj\Debug\BaitapWinformBuoi1.csproj.GenerateResource.cache
